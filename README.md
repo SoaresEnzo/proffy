@@ -1,5 +1,5 @@
 # Proffy
-App para conectar alunos e professores, de acordo com a necessidade por matéria.
+App criado na NextLevelWeek #2, promovida pela RocketSeat, feito para conectar alunos e professores de acordo com a necessidade por matéria.
 
 ## Tecnologias:
 - HTML
